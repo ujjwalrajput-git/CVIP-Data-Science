@@ -1,6 +1,6 @@
 # Breast Cancer Prediction 
 ## Author: Ujjwal Rajput
-Dataset : https://www.kaggle.com/datasets/merishnasuwal/breast-cancer-prediction-dataset
+Dataset : https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
 ---
 
